@@ -23,8 +23,22 @@ ul#horizontal-list {
   font-size: 45px;
 }
 
-.about-me {
+.basic-bio {
   color: aqua;
   font-size: 25px
+}
 
+.about-me {
+  color: aqua;
+  font-size: 20px;
+}
+
+.about-work {
+  color: aqua;
+  font-size: 20px;
+}
+
+.personal {
+  color: aqua;
+  font-size: 20px;
 }
