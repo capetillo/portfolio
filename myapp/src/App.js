@@ -1,24 +1,23 @@
-import logo from './logo.svg';
 import './App.css';
+import image from './favicon.png'
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <div class="container">
+        {/* <img src={image} alt="Rolling Circle" class="rolling-circle"/> */}
+      </div>
+      <div id="menu-outer">
+        <div class="table">
+          <ul id="horizontal-list">
+            <li>About</li>
+            <li>Projects</li>
+            <li>Experience</li>
+          </ul>
+        </div>
+      </div>
+      </div>
+
   );
 }
 
