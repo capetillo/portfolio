@@ -16,6 +16,7 @@ function App() {
           </ul>
         </div>
       </div>
+      <h1 class="name">Carolina Capetillo</h1>
       </div>
 
   );
