@@ -44,24 +44,37 @@ function App() {
       </div>
       <div id="header">
         <h1 class="projects">Projects</h1>
-        <div class="project1">
-          <h4 id="project">Project 1</h4>
-            <p>
-              I used JavaScript and React for this project. Explain what the project does and who it was for.
-            </p>
-        </div>
-        <div class="project2">
-          <h4 id="project">Project 2</h4>
-            <p>
-              I used GraphQL, Apollo, and React for this project. Explain what the project does and who it was for.
-            </p>
-        </div>
-        <div class="project3">
-          <h4 id="project">Project 3</h4>
-            <p>
-              I used Python and HerokuApp for this project. Explain what the project does and who it was for.
-            </p>
-        </div>
+          <div class="project1">
+            <h4 id="project">Project 1</h4>
+              <p>
+                I used JavaScript and React for this project. Explain what the project does and who it was for.
+              </p>
+          </div>
+          <div class="project2">
+            <h4 id="project">Project 2</h4>
+              <p>
+                I used GraphQL, Apollo, and React for this project. Explain what the project does and who it was for.
+              </p>
+          </div>
+          <div class="project3">
+            <h4 id="project">Project 3</h4>
+              <p>
+                I used Python and HerokuApp for this project. Explain what the project does and who it was for.
+              </p>
+          </div>
+      </div>
+      <div id="header">
+        <h1 class="work-experience">Experience</h1>
+          <div class="experience">
+            <h4 id="experience">Honey by PayPal</h4>
+              <p>
+                Add dates and specific duties
+              </p>
+            <h4 id="experience">Freelance Software Engineer</h4>
+              <p>
+                Add dates and specific duties
+              </p>
+          </div>
 
       </div>
       </div>
