@@ -17,6 +17,9 @@ function App() {
         </div>
       </div>
       <h1 class="name">Carolina Capetillo</h1>
+      <div class="about-me">
+        I'm a full stack engineer who enjoys making fun stuff with software
+      </div>
       </div>
 
   );
