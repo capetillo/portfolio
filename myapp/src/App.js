@@ -10,9 +10,9 @@ function App() {
       <div id="menu-outer">
         <div class="table">
           <ul id="horizontal-list">
-            <li>About</li>
-            <li>Projects</li>
-            <li>Experience</li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Projects</a></li>
+            <li><a href="#">Experience</a></li>
           </ul>
         </div>
       </div>
