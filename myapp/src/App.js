@@ -75,18 +75,6 @@ function App() {
                 Add dates and specific duties
               </p>
           </div>
-          <h1 class="work-experience">Experience</h1>
-          <div class="experience">
-            <h4 id="experience">Honey by PayPal</h4>
-              <p>
-                Add dates and specific duties
-              </p>
-            <h4 id="experience">Freelance Software Engineer</h4>
-              <p>
-                Add dates and specific duties
-              </p>
-          </div>
-
       </div>
       </div>
 
